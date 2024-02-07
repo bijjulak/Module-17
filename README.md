@@ -12,3 +12,4 @@ Model	Train Time	Train Accuracy	Test Accuracy
 
 The models were then fine tuned for their parameters. But still, they could not outperform the baseline model.
 
+https://github.com/bijjulak/Module-17/blob/main/Module17_KB.ipynb
